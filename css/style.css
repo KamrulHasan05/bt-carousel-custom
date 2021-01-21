@@ -1,0 +1,30 @@
+.banner{
+	background-image: url(../img/img9.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider{
+	background-color: rgba(1,1,1,.7);
+	padding: 70px;
+}
+.slider h5{
+	font-size: 30px;
+}
+.slider p{
+	margin-top: 10%;
+    font-size: 16px;
+    text-align: justify;
+}
+.c_btn{
+	margin-top: 20px;
+    margin-bottom: 30px;
+}
+.c_ind {
+    bottom: 1%;
+}
+.c_ind li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
